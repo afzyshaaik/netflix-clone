@@ -1,0 +1,7 @@
+.homeScreen {
+    background-color: #000;
+}
+
+.homeScreen::-webkit-scrollbar{
+    display: none;
+}

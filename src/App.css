@@ -1,0 +1,8 @@
+.app {
+    background-color: #000;
+    
+}
+
+.app::-webkit-scrollbar{
+    display: none;
+}
